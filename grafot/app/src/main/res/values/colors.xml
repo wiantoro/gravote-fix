@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="biruMuda">#8ab4d3</color>
+    <color name="biruTua">#005b9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="putih">#ffffff</color>
+    <color name="indigo">#303F9F</color>
+    <color name="pink">#FF4081</color>
+    <color name="hitam">#000000</color>
+    <color name="biruCerah">#d8e6f0</color>
+    <color name="biruGelap">#294d60</color>
+    <color name="abuAbu">#cbb8ec</color>
+    <color name="biru">#0288d1</color>
+    <color name="blur">#baffffff</color>
+</resources>
